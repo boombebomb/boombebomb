@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm boom</h1>
-<h3 align="center">A passionate Software Engineer from Thailand</h3>
+<h3 align="center">A Student Software Engineer from Thailand</h3>
 
 - 🌱 I’m currently learning **Next.js,Vue.js,Laravel**
 
