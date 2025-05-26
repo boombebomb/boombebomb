@@ -28,6 +28,7 @@
 - Advanced full-stack architecture
 - Machine Learning (NLP, Deep Learning,)
 - Scalable backend with microservices
+- Cyber Security
 ---
 
 ### 📌 Featured Projects
