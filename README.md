@@ -11,6 +11,7 @@
 ### 🔧 Tech Stack
 **Frontend:** Vue.js, React, Next.js, HTML5, CSS, TypeScript  
 **Backend:** Laravel, Node.js, REST APIs ,Golang,Rust
+
 **Database:** MySQL  
 **Dev Tools:** Docker, Git, WSL 
 **AI/ML:** Python, Jupyter, CNN, KNN, NLP  
