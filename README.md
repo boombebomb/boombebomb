@@ -24,13 +24,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- Advanced full-stack architecture
-- Machine Learning (NLP, Deep Learning,)
-- Scalable backend with microservices
-- Cyber Security
----
-
 ### 📌 Featured Projects
 - ⚙️ **Badminton Court Admin Web**: Full-feature court booking + POS + analytics  
 - 🤖 **ML with Python**: Beginner ML models in Jupyter Notebook  
